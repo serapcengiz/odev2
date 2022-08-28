@@ -1,0 +1,15 @@
+C:\Users\serap\Desktop\Pratikler\odev2\koleksiyonsoruları1\bin\Debug\net6.0\koleksiyonsoruları1.exe
+C:\Users\serap\Desktop\Pratikler\odev2\koleksiyonsoruları1\bin\Debug\net6.0\koleksiyonsoruları1.deps.json
+C:\Users\serap\Desktop\Pratikler\odev2\koleksiyonsoruları1\bin\Debug\net6.0\koleksiyonsoruları1.runtimeconfig.json
+C:\Users\serap\Desktop\Pratikler\odev2\koleksiyonsoruları1\bin\Debug\net6.0\koleksiyonsoruları1.dll
+C:\Users\serap\Desktop\Pratikler\odev2\koleksiyonsoruları1\bin\Debug\net6.0\koleksiyonsoruları1.pdb
+C:\Users\serap\Desktop\Pratikler\odev2\koleksiyonsoruları1\obj\Debug\net6.0\koleksiyonsoruları1.csproj.AssemblyReference.cache
+C:\Users\serap\Desktop\Pratikler\odev2\koleksiyonsoruları1\obj\Debug\net6.0\koleksiyonsoruları1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serap\Desktop\Pratikler\odev2\koleksiyonsoruları1\obj\Debug\net6.0\koleksiyonsoruları1.AssemblyInfoInputs.cache
+C:\Users\serap\Desktop\Pratikler\odev2\koleksiyonsoruları1\obj\Debug\net6.0\koleksiyonsoruları1.AssemblyInfo.cs
+C:\Users\serap\Desktop\Pratikler\odev2\koleksiyonsoruları1\obj\Debug\net6.0\koleksiyonsoruları1.csproj.CoreCompileInputs.cache
+C:\Users\serap\Desktop\Pratikler\odev2\koleksiyonsoruları1\obj\Debug\net6.0\koleksiyonsoruları1.dll
+C:\Users\serap\Desktop\Pratikler\odev2\koleksiyonsoruları1\obj\Debug\net6.0\refint\koleksiyonsoruları1.dll
+C:\Users\serap\Desktop\Pratikler\odev2\koleksiyonsoruları1\obj\Debug\net6.0\koleksiyonsoruları1.pdb
+C:\Users\serap\Desktop\Pratikler\odev2\koleksiyonsoruları1\obj\Debug\net6.0\koleksiyonsoruları1.genruntimeconfig.cache
+C:\Users\serap\Desktop\Pratikler\odev2\koleksiyonsoruları1\obj\Debug\net6.0\ref\koleksiyonsoruları1.dll
